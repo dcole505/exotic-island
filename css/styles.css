@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+  color: black;
+}
+
+#header2 {
+  text-align: center;
+  background-color: whitesmoke;
+}
+
+body {
+  background-color: darkgray;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.thumbnails {
+  height: 75px;
+  width: 75px;
+}
